@@ -37,7 +37,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 Once you have created a virtual machine in Microsoft Azure, and logged into the VM with Remote Desktop, then you download and install the osTicket Installation Files folder in order to access osTicket in a browser to start setting up your ticketing system.
 </p>
 <br />
-
+<img width="1006" height="714" alt="image" src="https://github.com/user-attachments/assets/1566ce35-8c53-4957-a457-922b65fbe4bb" />
+Above, is a photo of the login page that you will see once you have installed osTicket and opened it on a web browser.
+</p>
+<br />
 <p>
 <img width="1007" height="695" alt="image" src="https://github.com/user-attachments/assets/ec52ec12-2c55-4bd6-9223-dbc1a1f88891" />
 
