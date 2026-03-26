@@ -65,3 +65,13 @@ This shows what it will look like, to an end-user, while they are inputting thei
   </p>
 <p>
 After you input your information into a ticket and you submit it, this is what it will look like to an administrator when they see the ticket on their end. Once the ticket is in the ticketing system, the administrator will open the ticket, see what the end-user needs help with, communicate with them throughout the process of completing the ticket, and also to let the end-user know when the ticket has been resolved.
+</p>
+<p>
+    </p>
+<p>
+<br />
+<img width="999" height="698" alt="image" src="https://github.com/user-attachments/assets/0264fcfd-96f4-468a-a451-5239b426cbb7" />
+  </p>
+<p>
+<br />
+Above, is an image of the list of unresolved tickets in an administrators ticket panel that they have to work on. Tickets are also labeled by priority, which tells the admin which tickets are the most severe and therefore need to be resolved before the other tickets, that have a lower priority.
