@@ -38,7 +38,7 @@ Once you have created a virtual machine in Microsoft Azure, and logged into the 
 </p>
 <br />
 <img width="1006" height="714" alt="image" src="https://github.com/user-attachments/assets/1566ce35-8c53-4957-a457-922b65fbe4bb" />
-Above, is a photo of the login page that you will see once you have installed osTicket and opened it on a web browser.
+Above, is a photo of the login page that an end-user will see once you have installed osTicket and opened it on a web browser.
 </p>
 <br />
 <p>
@@ -51,9 +51,9 @@ When your ticketing system has been setup, you can create a ticket to learn how 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="987" height="697" alt="image" src="https://github.com/user-attachments/assets/c336965c-fbf6-4b4a-9a1a-f781d61520b6" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+This shows what it will look like, to an end-user, while they are inputting their information into a ticket.
 <br />
