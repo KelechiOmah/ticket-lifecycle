@@ -29,10 +29,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img width="920" height="721" alt="image" src="https://github.com/user-attachments/assets/c4f8c64d-c64c-40b9-8d34-dcf96c9f38d3" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once you have created a virtual machine in Microsoft Azure, and logged into the VM with Remote Desktop, then you download and install the osTicket Installation Files folder in order to access osTicket in a browser to start setting up your ticketing system.
 </p>
 <br />
 
