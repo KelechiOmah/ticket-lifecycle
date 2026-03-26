@@ -38,6 +38,8 @@ Once you have created a virtual machine in Microsoft Azure, and logged into the 
 </p>
 <br />
 <img width="1006" height="714" alt="image" src="https://github.com/user-attachments/assets/1566ce35-8c53-4957-a457-922b65fbe4bb" />
+</p>
+<p>
 Above, is a photo of the login page that an end-user will see once you have installed osTicket and opened it on a web browser.
 </p>
 <br />
@@ -56,4 +58,10 @@ When your ticketing system has been setup, you can create a ticket to learn how 
 </p>
 <p>
 This shows what it will look like, to an end-user, while they are inputting their information into a ticket.
+  </p>
+<p>
 <br />
+<img width="1001" height="687" alt="image" src="https://github.com/user-attachments/assets/0c644702-7a87-40a1-a2be-ed5a56fdf8fd" />
+  </p>
+<p>
+After you input your information into a ticket and you submit it, this is what it will look like to an administrator when they see the ticket on their end. Once the ticket is in the ticketing system, the administrator will open the ticket, see what the end-user needs help with, communicate with them throughout the process of completing the ticket, and also to let the end-user know when the ticket has been resolved.
