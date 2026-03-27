@@ -76,4 +76,4 @@ After you input your information into a ticket and you submit it, this is what i
   </p>
 <p>
 <br />
-Above, is an image of the list of unresolved tickets in an administrators ticket panel that they have to work on. Tickets are also labeled by priority, which tells the admin which tickets are the most severe and therefore need to be resolved before the other tickets, that have a lower priority.
+Above, is an image of the list of unresolved tickets in an administrators' ticket panel that they have to work on. Tickets are labeled by priority, which tells the admin which tickets are the most severe and therefore need to be resolved first, before the other tickets, that have a lower priority.
